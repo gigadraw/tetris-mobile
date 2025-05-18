@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+canvas {
+    background: #000;
+    display: block;
+    margin: auto;
+    touch-action: none;
+}
+.controls {
+    margin-top: 10px;
+}
+button {
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+}
+  
